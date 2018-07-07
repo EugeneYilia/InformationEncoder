@@ -1,2 +1,2 @@
 # InformationEncoder
-An information encoder for Eugene Soft.
+An information encoder for EEugeneSoft.
